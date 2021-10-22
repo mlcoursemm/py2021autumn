@@ -27,7 +27,7 @@
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/py2021autumn/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
-* [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1qouDyNQo6IeNy2S9PxorO3U9MFoBDlwhPNBSljamZXY/edit?usp=sharing)
+* [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/129n3pG6Uq8vLHmeKc09mUI_AEDETr7cBy-PxuglaHwU/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                      | ДЗ                              | Лектор |
 | ------------- | ------------- | -------------                               | -------------                           | ------------- |
